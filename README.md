@@ -229,7 +229,7 @@ These screenshots demonstrate that the automation works as intended.
 
 ---
 
-## 📝 Logs & Monitoring
+## Logs & Monitoring
 
 All validation attempts are logged to `logs/validation.log`:
 ```
